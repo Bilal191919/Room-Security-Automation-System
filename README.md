@@ -64,7 +64,6 @@ Through this project, I learned:
 
 ## 🔗 Connect with Me
 
-Want to collaborate or learn more?  
-📧 Email: your.email@example.com  
+Want to collaborate or learn more?   
 🌐 GitHub: [https://github.com/Bilal191919]
 
