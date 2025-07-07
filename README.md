@@ -47,6 +47,11 @@ To build a logic circuit that:
 3. Observe system behavior (unlocking + activation of outputs).
 4. Watch the 7-segment display change status.
 
+## 📸 Screenshot
+
+![IMG_20250622_192054 1](https://github.com/user-attachments/assets/adc97e49-bd14-4213-a07f-f5e76374cdc7)
+
+
 ## 🧠 Learning Outcome
 
 Through this project, I learned:
@@ -59,5 +64,7 @@ Through this project, I learned:
 
 ## 🔗 Connect with Me
 
-Want to collaborate or learn more?   
-🌐 GitHub: [YourUsername](https://github.com/Bilal191919)
+Want to collaborate or learn more?  
+📧 Email: your.email@example.com  
+🌐 GitHub: [https://github.com/Bilal191919]
+
